@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# How to run
+Before running the App provide a valid Infura API token at 
+`let provider = "https://mainnet.infura.io/v3/<Infura API token>"`
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+After that, run the commannds `npm install` and `npm start` to run the App.
+
 
 ## Available Scripts
 
